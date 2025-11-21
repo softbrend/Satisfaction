@@ -1,4 +1,4 @@
-#2ND DAY-  MACHINE LEARNING / STREAMLIT / GITHUB COMBINED FOR DATA SCIENCE
+33#2ND DAY-  MACHINE LEARNING / STREAMLIT / GITHUB COMBINED FOR DATA SCIENCE
 
 #Main tasks:
 #Create simple google form where respondents will upload a signed/ unsigned document/ of valid or not valid document
@@ -1456,7 +1456,7 @@ def admin_panel():
                         # Confusion Matrix
                         if 'confusion_matrix' in results:
                             st.markdown("### 🎯 Confusion Matrix")
-                           cm = np.array(results['confusion_matrix'])
+                            cm = np.array(results['confusion_matrix'])
                             fig, ax = plt.subplots(figsize=(8, 6))
                             sns.heatmap(cm, annot=True, fmt='d', cmap='Blues', ax=ax)
                             ax.set_xlabel('Predicted')
