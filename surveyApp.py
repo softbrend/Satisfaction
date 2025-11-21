@@ -1,19 +1,19 @@
-2ND DAY-  MACHINE LEARNING / STREAMLIT / GITHUB COMBINED FOR DATA SCIENCE
+#2ND DAY-  MACHINE LEARNING / STREAMLIT / GITHUB COMBINED FOR DATA SCIENCE
 
-Main tasks:
-Create simple google form where respondents will upload a signed/ unsigned document/ of valid or not valid document
+#Main tasks:
+#Create simple google form where respondents will upload a signed/ unsigned document/ of valid or not valid document
 
-Then make sure you have your folder of those document on your google drive, then start training your model
-
-
-Step 1: 
-Visit https://teachablemachine.withgoogle.com/
+#Then make sure you have your folder of those document on your google drive, then start training your model
 
 
-Step 2: Train your model using video
+#Step 1: 
+#Visit https://teachablemachine.withgoogle.com/
+
+
+#Step 2: Train your model using video
  
 
-Step 3: generate the shareable URL Link 
+#Step 3: generate the shareable URL Link 
 
 
 
